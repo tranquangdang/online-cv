@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -14,12 +14,12 @@ sidebar:
     # Sidebar links
     email: tranquangdang20@gmail.com
     phone: 0898223530
-    timezone: Vietnam/Danang
-    citizenship:
+    timezone: 14/02/2000
+    citizenship: Vietnam/Danang
     website: #do not add http://
     linkedin: 
     xing: 
-    github: 
+    github: tranquangdang
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -27,84 +27,49 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
-      - idiom: Vietnam
-        level: Native
-
       - idiom: English
-        level: Medium
-
-    interests:
-      - item: Photography
-        link: 500px.com/p/tranquangdang
-
-      - item: Music
-        link:
-
-      - item: Cinephile
-        link:
+        level: Intermediate
 
 career-profile:
-    title: Career Profile
+    title: SKILLS
     summary: |
-      Javascript Developer.
+      - HTML, CSS, JavaScript ES6
+      - ReactJS
+      - NodeJS (ExpressJS)
+      - RESTful API, Postman
+      - MySQL, SQL Server, NoSQL (MongoDB)
 education:
-    - degree: GPA: 3.4/4.0
+    - degree: GPA 3.4/4.0
       university: The University of Danang - University of Technology and Education
       time: 2018 - 2022
       details: |
         Information technology is my primary academic focus.
-
 projects:
-    title: Website for managing vaccinations at Quang Nam Vaccine
+    title: PROJECTS
     intro: >
-      - Customers can register and look up vaccination information, receive notifications via SMS.
-      - Employees can manage vaccination information, vaccines, injection packages, news, departments.
+      Below are a few of the projects I completed while I was studying:
     assignments:
-      - title: Website for managing vaccinations at Quang Nam Vaccine
+      - title: Vaccination management website
         link: "https://qnvc.netlify.app"
-        tagline: 
-        "
-        A responsive website (using ReactJS (MaterialUI, axios,...), NodeJS (Express, SocketIO,...) and MySQL) template designed to help
-        - Customers can register and look up vaccination information, receive notifications via SMS.
-        - Employees can manage vaccination information, vaccines,..."
+        tagline: "A website built with ReactJS (MaterialUI, axios,...), NodeJS (Express, SocketIO,...) and MySQL designed to help
+                  customers can register and look up vaccination information.
+                  and Quang Nam Vaccine employees can manage vaccination information, vaccines,..."
 
-      - title: Website for trading electronic components in Dang Truong
+      - title: Dang Truong computer accessories website
         link: "https://dangtruongpc.000webhostapp.com/"
-        tagline: 
-        "
-        A responsive website (using Php, Bootstrap and MySQL) template designed to help
-        - Customers can build PC configuration, make purchases, order tracking.
-        - Employees can manage orders and products."
+        tagline: "A responsive website built with Php, Bootstrap and MySQL designed to help
+        customers can build PC configuration, shopping online and tracking orders
+        and employees can manage orders and products."
 
-      - title: Android app for reading stories (Wattpad Clone)
+      - title: Wattpad (Clone)
         link: "https://github.com/tranquangdang/WattpadAndroidAppClone"
-        tagline: "An android app (using Java, Javascript and Firebase) designed to help you read stories, send texts, and post your own stories."
+        tagline: "An android app built with Java, Javascript and Firebase designed to help you read stories, send texts, and post your own stories."
 
       - title: Sales management website
         link: "https://github.com/tranquangdang/AdminWebsite"
-        tagline: "A comprehensive website (using ASP.NET, Bootstrap and SQL Server) template solution for employees can manage products, categories, orders and statistics."
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: HTML, CSS, JavaScript ES6
-        level: 
-
-      - name: ReactJS
-        level: 
-
-      - name: NodeJS (ExpressJS)
-        level: 
-
-      - name: RESTful API, Postman
-        level: 
-
-      - name: MySQL, SQL Server, NoSQL (MongoDB)
-        level: 
-
+        tagline: "An management website built with ASP.NET, Bootstrap and SQL Server template solution for employees can manage products, categories, orders and statistics."
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Contact me through <a href="https://fb.me/tranquangdangg" target="_blank" rel="nofollow">my facebook</a>
