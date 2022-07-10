@@ -66,10 +66,10 @@ projects:
 
       - title: Wattpad (Clone)
         link: "https://github.com/tranquangdang/WattpadAndroidAppClone"
-        tagline: "An android app built with Java, Javascript and Firebase designed to help you read stories, send texts, and post your own stories."
+        tagline: "An android app built with Java, Javascript and Firebase designed read stories, chatting, and post your own stories."
 
       - title: Sales management website
         link: "https://github.com/tranquangdang/AdminWebsite"
-        tagline: "An management website built with ASP.NET, Bootstrap and SQL Server template solution for employees can manage products, categories, orders and statistics."
+        tagline: "A management website built with ASP.NET, Bootstrap and SQL Server solution for employees can manage products, categories, orders and statistics."
 footer: >
     Contact me through <a href="https://fb.me/tranquangdangg" target="_blank" rel="nofollow">my facebook</a>
