@@ -29,10 +29,6 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: 
 
-    languages:
-      - idiom: English
-        level: Intermediate
-
 career-profile:
     title: SKILLS
     summary: |
@@ -41,6 +37,7 @@ career-profile:
       - NodeJS (ExpressJS)
       - RESTful API, Postman
       - MySQL, SQL Server, NoSQL (MongoDB)
+      - English (Intermediate)
 education:
     - degree: GPA 3.4/4.0
       university: The University of Danang - University of Technology and Education
@@ -50,26 +47,26 @@ education:
 projects:
     title: PROJECTS
     intro: >
-      Below are a few of the projects I completed while I was studying:
+      Below are a few of my projects:
     assignments:
-      - title: Vaccination management website
+      - title: Vaccination Management Website
         link: "https://qnvc.netlify.app"
         tagline: "A website built with ReactJS (MaterialUI, axios,...), NodeJS (Express, SocketIO,...) and MySQL designed to help
-                  customers can register and look up vaccination information.
+                  customers can register for vaccination and look up vaccination information.
                   and Quang Nam Vaccine employees can manage vaccination information, vaccines,..."
 
-      - title: Dang Truong computer accessories website
+      - title: Dang Truong Computer Accessories Website
         link: "https://dangtruongpc.000webhostapp.com/"
-        tagline: "A responsive website built with Php, Bootstrap and MySQL designed to help
-        customers can build PC configuration, shopping online and tracking orders
-        and employees can manage orders and products."
+        tagline: "A website built with Php, Bootstrap and MySQL designed to help
+        customers can build PC configuration, shopping online and tracking orders.
+        Employees can manage orders and products."
 
       - title: Wattpad (Clone)
         link: "https://github.com/tranquangdang/WattpadAndroidAppClone"
-        tagline: "An android app built with Java, Javascript and Firebase designed read stories, chatting, and post your own stories."
+        tagline: "An android app built with Java and Firebase (Javascript and MySQL for Webservice) designed to read stories, chatting, and post your own stories."
 
-      - title: Sales management website
+      - title: Sales Management Website
         link: "https://github.com/tranquangdang/AdminWebsite"
-        tagline: "A management website built with ASP.NET, Bootstrap and SQL Server solution for employees can manage products, categories, orders and statistics."
+        tagline: "A management website built with ASP.NET MVC, Bootstrap and SQL Server solution for employees can manage products, categories, orders and statistics."
 footer: >
     Contact me through <a href="https://fb.me/tranquangdangg" target="_blank" rel="nofollow">my facebook</a>
